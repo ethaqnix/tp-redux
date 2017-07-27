@@ -1,0 +1,27 @@
+{
+  "name": "tour_of_redux2",
+  "version": "1.0.0",
+  "description": "Describe tour_of_redux2 here",
+  "private": true,
+  "scripts": {
+    "build": "nwb build-react-app",
+    "clean": "nwb clean-app",
+    "start": "nwb serve-react-app",
+    "test": "nwb test-react",
+    "test:coverage": "nwb test-react --coverage",
+    "test:watch": "nwb test-react --server"
+  },
+  "dependencies": {
+    "randomcolor": "^0.5.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "nwb": "0.15.x"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": ""
+}
